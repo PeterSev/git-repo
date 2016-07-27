@@ -1,6 +1,5 @@
 E:\WORK\git-repo\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe.config
 E:\WORK\git-repo\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe
 E:\WORK\git-repo\CSharpProj\CSharpProj\bin\Debug\CSharpProj.pdb
-E:\WORK\git-repo\CSharpProj\CSharpProj\obj\Debug\CSharpProj.csprojResolveAssemblyReference.cache
 E:\WORK\git-repo\CSharpProj\CSharpProj\obj\Debug\CSharpProj.exe
 E:\WORK\git-repo\CSharpProj\CSharpProj\obj\Debug\CSharpProj.pdb
