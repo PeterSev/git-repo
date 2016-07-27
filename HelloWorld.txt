@@ -2,7 +2,7 @@ prints("HelloWorld");
 print("Hello everybody");
 
 print("Hello everybody");
-New change;
+print("Hello my dear griend!");
 
 jhgnhgjhgjhg
 
