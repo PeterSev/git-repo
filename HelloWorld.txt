@@ -1,11 +1,9 @@
 prints("HelloWorld");____
 print("Hello everybody");____
-
+print("Hello everybody");
+print("Hello my dear griend!");
 print("Hello everybody");____
 New change;
 
-jhgnhgjhgjhg
 
-
-
-New string!
+AddToString("New comment");
