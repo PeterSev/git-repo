@@ -1,7 +1,7 @@
-prints("HelloWorld");
-print("Hello everybody");
+prints("HelloWorld");____
+print("Hello everybody");____
 
-print("Hello everybody");
+print("Hello everybody");____
 New change;
 
 jhgnhgjhgjhg
